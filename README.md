@@ -1,7 +1,8 @@
-# Lab 2 – Smart Image Analyzer with Durable Functions
+# CST8917 Lab 2 – Smart Image Analyzer with Durable Functions
 ## Akash Nadackanal Vinod
 ## 041156265
-**CST8917 | Winter 2026**
+
+## Demo Link: 
 
 This project builds on the Week 4 exercise by using the **Fan-Out/Fan-In pattern** instead of simple function chaining. When an image gets uploaded to Blob Storage, four analyses run at the same time (colors, objects, OCR, and metadata), the results get combined into one report, and that report is saved to Table Storage.
 
