@@ -2,7 +2,8 @@
 ## Akash Nadackanal Vinod
 ## 041156265
 
-## Live App: https://akashnadackanalvinod-image-analyzer-auehfng4ffeveda2.canadacentral-01.azurewebsites.net/api/results
+## Live App: 
+https://akashnadackanalvinod-image-analyzer-auehfng4ffeveda2.canadacentral-01.azurewebsites.net/api/results
 
 ## DEMO VIDEO: 
 https://youtu.be/t-sGSfZ92Z8
